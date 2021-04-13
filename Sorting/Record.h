@@ -1,0 +1,11 @@
+#pragma once
+
+class Record
+{
+public:
+	int a0, a1, a2, a3, a4, x;
+
+	Record();
+	Record(int a0, int a1, int a2, int a3, int a4, int x);
+	unsigned long long value();
+};
