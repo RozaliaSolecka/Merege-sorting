@@ -15,7 +15,7 @@ The aim of the project was to write a file sorting program using the natural mer
 
 ## Getting Started
 Clone the repository  
-'git clone https://github.com/RozaliaSolecka/Merege-sorting.git'
+`git clone https://github.com/RozaliaSolecka/Merege-sorting.git`
   
 Open project in your favourite IDE.   
   
